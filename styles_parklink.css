@@ -1,0 +1,86 @@
+#corpo{
+    background-color: #fff;
+    margin: 50px;
+    padding: 25px;
+}
+body{
+   background-color: rgb(86, 6, 88);
+}
+.inicio{
+    margin: auto;
+    padding: 25px;
+    border: 25px;
+    background-color: azure;
+    
+}
+#titulo{
+
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.sub{
+    font-size: 18px;
+    font-style: italic;
+    text-align: center;
+}
+.exp{
+    font-size: larger;
+    font-family: arial;
+    text-align: initial;
+    letter-spacing: 1px;
+}
+
+#qd{
+    text-align: center;
+    background-color: #561;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    border-radius: 5px;
+    padding: 30px;
+    margin: 50px; 
+}
+
+#tituloqd{
+    text-align: justify;
+    font-size: 32px;
+}
+#pqd{
+    font-style: italic;
+    text-align: left;
+}
+#Fanfact{
+    font-size: 25px;
+}
+.lista{
+    font-family: arial;
+
+    line-height: 30px;
+}
+.trecho{
+    text-align: center;
+    background-color: #561;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    border-radius: 5px;
+    padding: 30px;
+    margin: 50px; 
+    font-size: 35px;
+    text-align: left;
+    line-height: 2%;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+
+.referencia{
+    text-align: left;
+    font-style: italic;
+    font-size: 18px;
+}
+.imagem{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+}

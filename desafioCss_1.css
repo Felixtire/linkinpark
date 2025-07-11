@@ -1,0 +1,14 @@
+h4{
+    border: 5px solid  purple ;
+    border-color: blue;
+    padding: 20px;
+    border-radius: 15px;
+    font-size: medium;
+    color: #000;
+    
+}
+.text-alignment{
+    text-align: right;
+    text-transform: uppercase;
+    letter-spacing: 50px;
+}
